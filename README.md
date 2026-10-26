@@ -4,7 +4,7 @@ Análise de cerca de 140 mil observações de baleias e golfinhos em Portugal (2
 abertos do GBIF, para responder a uma pergunta simples: **que espécies aparecem em que meses, e
 isso muda entre os Açores, a Madeira e o Continente?**
 
-**🌊 Site interativo:[dinistcosta.github.io/cetacean-biodiversity-analysis](https://dinistcosta.github.io/cetacean-biodiversity-analysis/)**:
+** **Site interativo:[dinistcosta.github.io/cetacean-biodiversity-analysis](https://dinistcosta.github.io/cetacean-biodiversity-analysis/)**:**
 calendário das espécies com escolha de região e de anos, e mapa sazonal mês a mês.
 
 ## Principais resultados
