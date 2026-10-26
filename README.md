@@ -82,3 +82,7 @@ pip install -r requirements.txt
 ## Ferramentas
 
 Python · pandas · matplotlib · seaborn · folium · Jupyter
+
+## Agradecimentos
+
+Parte do código e da documentação foi desenvolvida com a ajuda do Claude (Anthropic).
